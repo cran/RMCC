@@ -1,0 +1,21 @@
+SOURCES = ./Algorithm.cpp \
+					./CoordinateInterval.cpp \
+					./DisjointRegions.cpp \
+					./DuplicatePoints.cpp \
+					./Geometry3D.cpp \
+					./GridBase.cpp \
+					./InterpolationRegion.cpp \
+					./LocaleUtilities.cpp \
+					./PointVector.cpp \
+					./R_MCC.cpp \
+					./RasterSurface.cpp \
+					./RcppExports.cpp \
+					./RegularizedSpline.cpp \
+					./StackedPoints.cpp \
+					./SurfaceInterpolation.cpp \
+					./UnclassifiedPoints.cpp \
+					tpsdemo/spline.cpp
+
+TEMP1   =  $(SOURCES:.cpp=.o)
+OBJECTS =  $(TEMP1:.c=.o)
+CXX_STD = CXX11
