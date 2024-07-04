@@ -1,7 +1,7 @@
 Package: RMCC
 Type: Package
 Title: Airborne LiDAR Filtering Method Based on Multiscale Curvature
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Jean-Romain", "Roussel", email = "jean-romain.roussel.1@ulaval.ca", role = c("aut", "cre")),
     person("Evans", "Jeffrey S", email = "", role = c("aut")),
@@ -21,7 +21,7 @@ Imports: Rcpp
 Depends: R (>= 2.10)
 Suggests: tinytest
 NeedsCompilation: yes
-Packaged: 2022-02-07 19:34:16 UTC; jr
+Packaged: 2024-07-04 00:30:27 UTC; jr
 Author: Jean-Romain Roussel [aut, cre],
   Evans Jeffrey S [aut],
   Hudak Andrew T [aut],
@@ -31,4 +31,4 @@ Author: Jean-Romain Roussel [aut, cre],
   Thomas Becker [cph] (Author of the included any_iterator library)
 Maintainer: Jean-Romain Roussel <jean-romain.roussel.1@ulaval.ca>
 Repository: CRAN
-Date/Publication: 2022-02-08 16:20:08 UTC
+Date/Publication: 2024-07-04 06:30:02 UTC

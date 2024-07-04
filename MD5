@@ -1,4 +1,4 @@
-dd5649530e28cdb87dbc76b853505447 *DESCRIPTION
+880cc6c80d4081bf53f4ab0cded85209 *DESCRIPTION
 efe9bbf8f19f70f9ff62aac18028ebf6 *LICENSE
 448cb1ae63420b1b9cc01d446c317e91 *LICENSE.note
 85d088de56f457904239fc36310e25f6 *NAMESPACE
@@ -7,7 +7,7 @@ f56f68e40eb22e7bf53f7e70b01732ec *R/RcppExports.R
 446540185f93d15f2f821b2c312c1144 *R/data.R
 2731c22f0bf1ed792443fd9492c2078c *README.md
 622aef2674e0bdfc75fd93184498f62d *data/rmcc_cloud.rda
-e8fa3e8a30c0fac7fb468e5ddc5ba8d3 *inst/tinytest/test_RMCC.R
+88790a9783e0711c7db053ac107ffad0 *inst/tinytest/test_RMCC.R
 8672d8205acb07b3f1c4895ecb20115d *man/MCC.Rd
 e8fb1b3a851a4d32e50d04f61a83682d *man/rmcc_cloud.Rd
 445e9eb69722be332ddfba8ed158cf78 *src/Algorithm.cpp
@@ -23,7 +23,7 @@ ebe5608795bb758e15669e7c0bda051e *src/DisjointRegions.h
 4966d4be006e7844a6ef2e5564b05e36 *src/DuplicatePoints.h
 310555f21fc1f439f39b2f05927c6300 *src/Geometry3D.cpp
 3e61248f7650ff9e57e4003161fbc85d *src/Geometry3D.h
-c5fe8c8cb0a895d2c30cd9288f91dc91 *src/Grid.h
+6ffed33dad8d020715bf7d7fd01b7009 *src/Grid.h
 3a6b2aeac3151515b431b045ee09320a *src/GridBase.cpp
 28563966049103c2ed49fdf6cc78d567 *src/GridBase.h
 7ad418afa312e85b69c7a025704263ba *src/IClassificationVector.h
@@ -38,8 +38,8 @@ a2f9c31d01307e0ba6b72a00d381f67a *src/InterpolationRegion.cpp
 338e5c564b2869585353d3eb7cb32854 *src/InterpolationRegion.h
 d48728efc67301a4e9be5d4b1cc752db *src/LocaleUtilities.cpp
 bc875a3560dee41a5da37f04822d4bd0 *src/LocaleUtilities.h
-4b60035547bf48d69145fa99afbdc930 *src/Makevars
-4b60035547bf48d69145fa99afbdc930 *src/Makevars.win
+6d577c714fecc41a3d2a534c297b10d7 *src/Makevars
+6d577c714fecc41a3d2a534c297b10d7 *src/Makevars.win
 2e3d57b4e5f0b83e95b47ec40b0f4db9 *src/Point.h
 29a546450d7d483854ca0638a887eb9b *src/PointClassification.h
 fe799469c895d21b066828b7905adfed *src/PointSelector.h
